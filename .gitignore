@@ -1,0 +1,19 @@
+# Gradle / Android Studio
+.gradle/
+build/
+*/build/
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# 签名与密钥（不要把发布密钥提交上来）
+*.jks
+*.keystore
+keystore.properties
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
